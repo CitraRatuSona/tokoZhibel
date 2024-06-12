@@ -44,7 +44,7 @@ include 'header.php';
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Batal</button>
-                <button type="submit" class="btn btn-success" name="tambahbeban">Simpan</button>
+                <button type="submit" class="btn btn-success" name="tambahbeban">Simpan.data</button>
                 </form>
             </div>
             </div>
